@@ -1,0 +1,4 @@
+1. buat basis data dengan nama uas-pbo
+2. kemudian import file resistor.sql 
+3. jangan lupa pindahkan folder uas-pbo ke folder htdocs
+4. terakhir telusuri link berikut http://localhost/uas-pbo/ 
